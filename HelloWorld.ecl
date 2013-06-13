@@ -1,2 +1,2 @@
 output('Hello World');
-output('Test2');
+/* output('Test2'); */
