@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.hpccsystems.eclide.eclNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>ECL Library</name>
+			<type>2</type>
+			<location>C:/Program Files (x86)/HPCCSystems/3.10.8/clienttools/share/ecllibrary</location>
+		</link>
+		<link>
+			<name>Examples</name>
+			<type>2</type>
+			<location>C:/Program Files (x86)/HPCCSystems/3.10.8/clienttools/examples</location>
+		</link>
+	</linkedResources>
 </projectDescription>
